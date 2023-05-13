@@ -1,0 +1,7 @@
+// Altera as propriedades da tabela. Neste caso está adicionando a chave primária para o campo SKU, CPF E MATRICULA.
+ALTER TABLE TB_PRODUTOS ADD PRIMARY KEY (SKU);
+ALTER TABLE TB_CLIENTES ADD PRIMARY KEY (CPF);
+ALTER TABLE TB_VENDEDORES ADD PRIMARY KEY (MATRICULA);
+
+// Cria uma nova coluna na tabela
+ALTER TABLE TB_CLIENTES ADD COLUMN (DATA_NASCIMENTO DATE);
