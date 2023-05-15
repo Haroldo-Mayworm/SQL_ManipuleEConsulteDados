@@ -1,4 +1,4 @@
-Este repositório contém o registro do curso "SQL com MySQL: manipule e consulte dados" da Alura.
+Este repositório contém o registro do curso "SQL com MySQL: manipule e consulte dados" da Alura (Concluído).
 
 Aqui você encontrará exemplos de criação e alteração de bancos de dados, tabelas e consultas. 
 
