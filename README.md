@@ -1,7 +1,21 @@
-Este repositório contém o registro do curso "SQL com MySQL: manipule e consulte dados" da Alura (Concluído).
+<h2>Curso de "SQL com MySQL: manipule e consulte dados" da Alura (CONCLUÍDO)</h2>
 
-Aqui você encontrará exemplos de criação e alteração de bancos de dados, tabelas e consultas. 
+Este repositório contém o material do curso, abrangendo os conceitos: Banco de dados MySQL; Selects; Filtro Where; Adicionando dados com Insert; Atualize e apague com Update e Delete; Estruturção com Create Table e Alter Table. O curso tem como objetivo fornecer uma base sólida, portanto neste repositório estão exemplos de código, exercícios e projeto que desenvolvi.
+</br>
 
-Este repositório é uma forma de documentar minha evolução e compartilhar conhecimento com banco de dados.
+<h3>Pré-requisitos</h3>
+É necessário ter o ambiente de desenvolvimento. 
+<ul>
+<li>MySQL Server</li>
+<li>MySQL Workbench</li>
+</ul>
+</br>
 
-Utilizei a ferramenta DE.MySQL Workbench 8.0
+<h3>Contato</h3>
+
+Se você tiver alguma dúvida ou sugestão. Pode entrar em contato por meio do:
+
+<ul>
+<li>E-mail: haroldomayworm@gmail.com</li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/haroldomayworm/" target="_blank">Haroldo Mayworm</a></li>
+</ul>
